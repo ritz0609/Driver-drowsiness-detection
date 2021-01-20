@@ -131,7 +131,7 @@ while True:
                 cv2.putText(frame, "Juhi babe u feeling sleepy", (10, 240),
                             cv2.FONT_HERSHEY_COMPLEX, 0.7, (0, 0, 255), 2)
         
-
+    #IT's LIT
     # otherwise, the eye aspect ratio and mouth aspect ratio is not below the blink threshold, so reset the counter and alarm
         else:
             COUNTER = 0
